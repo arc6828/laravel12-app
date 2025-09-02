@@ -1,4 +1,4 @@
-name: Deploy to Express Server
+name: Deploy to Laravel Server
 
 on:
   push:
